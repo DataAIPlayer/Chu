@@ -7,6 +7,8 @@
 
 - [《统计学习方法》学习笔记-概论](http://blog.csdn.net/u010999741/article/details/77451249)
 
+- [《统计学习方法》学习笔记-感知机](http://blog.csdn.net/u010999741/article/details/78470469)
+
 --------
 ## Competition  
 - [天池新人实战赛之平台赛](https://github.com/demonicCode/tianchi_platformRace)
